@@ -35,7 +35,7 @@ func (d *Pelon) IrIzquierda(){
 }
 
 //Correr del personaje
-func (d *Pelon) Correr(){
+func (d *Pelon) Correr
 	for d.running {
 		var incX float32 = 50
 		incX *= d.direction
